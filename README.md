@@ -1,6 +1,6 @@
 # tennis_betting_efficiency
 
-GitHub repository for LSESU Data Science Society AT Project Showcase project "Predictive Modeling and Market Efficiency in Sports Betting."
+Public GitHub repository for LSESU Data Science Society AT Project Showcase project "Predictive Modeling and Market Efficiency in Sports Betting." that I and other member worked on
 
 ## Overview
 
