@@ -1,0 +1,18 @@
+{
+  "accuracy": 0.7367,
+  "auc": 0.8157,
+  "log_loss": 0.5226,
+  "r2": 0.2991,
+  "roi_conservative": 42.6,
+  "roi_aggressive": 78.1,
+  "annual_roi_conservative": 3.67,
+  "annual_roi_aggressive": 6.03,
+  "sharpe_conservative": 1.64,
+  "sharpe_aggressive": 2.0,
+  "baseline_roi": -3.68,
+  "baseline_annual_roi": -0.38,
+  "baseline_sharpe": -0.88,
+  "test_matches": 4972,
+  "value_bets_conservative": 1700,
+  "value_bets_aggressive": 705
+}
